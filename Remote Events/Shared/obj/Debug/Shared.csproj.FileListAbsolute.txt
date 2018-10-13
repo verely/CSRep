@@ -1,0 +1,11 @@
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\bin\Debug\Shared.dll
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\bin\Debug\Shared.pdb
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.dll
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.pdb
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\dev\RemoteEvents\Remote Events\Shared\bin\Debug\Shared.dll
+C:\dev\RemoteEvents\Remote Events\Shared\bin\Debug\Shared.pdb
+C:\dev\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.dll
+C:\dev\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.pdb
+C:\dev\RemoteEvents\Remote Events\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache

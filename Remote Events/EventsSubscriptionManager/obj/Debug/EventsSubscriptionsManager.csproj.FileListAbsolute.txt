@@ -1,0 +1,11 @@
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\bin\Debug\EventsSubscriptionManager.dll
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\bin\Debug\EventsSubscriptionManager.pdb
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionsManager.csprojAssemblyReference.cache
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionsManager.csproj.CoreCompileInputs.cache
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionManager.dll
+C:\Users\valery-v\Downloads\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionManager.pdb
+C:\dev\RemoteEvents\Remote Events\EventsSubscriptionManager\bin\Debug\EventsSubscriptionManager.dll
+C:\dev\RemoteEvents\Remote Events\EventsSubscriptionManager\bin\Debug\EventsSubscriptionManager.pdb
+C:\dev\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionManager.dll
+C:\dev\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionManager.pdb
+C:\dev\RemoteEvents\Remote Events\EventsSubscriptionManager\obj\Debug\EventsSubscriptionsManager.csprojResolveAssemblyReference.cache

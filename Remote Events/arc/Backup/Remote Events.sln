@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D430CE96-5437-49C9-992D-D6F0D07CD5C9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{F5748179-DE17-4A2E-B4D3-AB07F85D6B42}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{71538B4E-4C04-4A45-A36D-BCC2EA60008E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsSubscriptionsManager", "EventsSubscriptionManager\EventsSubscriptionsManager.csproj", "{555304C7-6BDA-4B56-8AE7-5025405CE6A7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D430CE96-5437-49C9-992D-D6F0D07CD5C9}.Debug.ActiveCfg = Debug|.NET
+		{D430CE96-5437-49C9-992D-D6F0D07CD5C9}.Debug.Build.0 = Debug|.NET
+		{D430CE96-5437-49C9-992D-D6F0D07CD5C9}.Release.ActiveCfg = Release|.NET
+		{D430CE96-5437-49C9-992D-D6F0D07CD5C9}.Release.Build.0 = Release|.NET
+		{F5748179-DE17-4A2E-B4D3-AB07F85D6B42}.Debug.ActiveCfg = Debug|.NET
+		{F5748179-DE17-4A2E-B4D3-AB07F85D6B42}.Debug.Build.0 = Debug|.NET
+		{F5748179-DE17-4A2E-B4D3-AB07F85D6B42}.Release.ActiveCfg = Release|.NET
+		{F5748179-DE17-4A2E-B4D3-AB07F85D6B42}.Release.Build.0 = Release|.NET
+		{71538B4E-4C04-4A45-A36D-BCC2EA60008E}.Debug.ActiveCfg = Debug|.NET
+		{71538B4E-4C04-4A45-A36D-BCC2EA60008E}.Debug.Build.0 = Debug|.NET
+		{71538B4E-4C04-4A45-A36D-BCC2EA60008E}.Release.ActiveCfg = Release|.NET
+		{71538B4E-4C04-4A45-A36D-BCC2EA60008E}.Release.Build.0 = Release|.NET
+		{555304C7-6BDA-4B56-8AE7-5025405CE6A7}.Debug.ActiveCfg = Debug|.NET
+		{555304C7-6BDA-4B56-8AE7-5025405CE6A7}.Debug.Build.0 = Debug|.NET
+		{555304C7-6BDA-4B56-8AE7-5025405CE6A7}.Release.ActiveCfg = Release|.NET
+		{555304C7-6BDA-4B56-8AE7-5025405CE6A7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		RemoteEvents.html = RemoteEvents.html
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
